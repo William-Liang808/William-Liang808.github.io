@@ -18,7 +18,7 @@ The very first coding experience I had was with HTML and CSS, having to make my 
 
 For the rest of my high school STEM course career, we jumped along from learning HTML, CSS, and JavaScript to other languages such as Python, PHP and even learned how to use the MySQL database as well as how to use the command line to navigate through our operating system. 
 
-<img class="ui medium leftfloated image" src="../images/progress.jpg">
+<img class="ui medium left floated image" src="../images/progress.jpg">
 <h2> Time Flies </h2>
 All though everything seemed very slow throughout the years, collectively, I have learned so much and moved so far ahead of where I thought I would be today. In a way, all that has happened throughout school for me is analogous to the tortoise in the race with the hare. As long as I move at my own pace and gain something valuable along the way, I will win this race. 
 
