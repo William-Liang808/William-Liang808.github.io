@@ -3,10 +3,10 @@
     "name": "William Liang",
     "label": "CS Student",
     "picture": "https://William-Liang808.github.io/images/headshot.jpg",
-    "email": "wliang80@hawaii.edu",
+    "email": "WilliamLiang808@gmail.com",
     "phone": "808-393-8118",
     "website": "https://William-Liang808.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "William-Liang808",
         "url": "https://www.linkedin.com/in/william-liang808/"
-      },
-      {
-        "network": "instagram",
-        "username": "Spicy.Will",
-        "url": "http://instagram.com/spicy.will"
       }
     ]
   },
@@ -44,7 +39,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Personal Finance",
       "keywords": [
       ]
     }
@@ -101,58 +96,21 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Applied Research Laboratories",
+      "position": "Software Engineering Intern",
+      "website": "https://arl.hawaii.edu/",
+      "startDate": "2019-06-01",
+      "endDate": "2019-08-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted in developing VR applications through Unity.",
+        "Reported status, deadlines, issues and achievements to Program Management.",
+        "Summarized and presented internship learning and experience to the leadership team.",
+        "Worked under supervision of senior engineering and technical staff."
       ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+  ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
