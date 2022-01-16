@@ -10,6 +10,7 @@ labels:
   - JavaScript
   - Reflection
 ---
+<img class="ui medium left floated image" src="../images/javascript.png">
 
 <h2>Hello JavaScript</h2>
 JavaScript is not like another familiar-sounding coding language that we may know of as Java. The simplicity of JavaScript allows us for quicker coding and implementation rather than being caught up in the nitty-gritty parts of setting everything up. The lack of boilerplate text is a huge plus for pushing out fast and effective code. 
