@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/web-crawler.jpg
 title: Java Web Crawler
-permalink: projects/micromouse
+permalink: projects/webcrawler
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-01
 labels:
