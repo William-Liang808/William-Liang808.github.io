@@ -26,27 +26,20 @@
         "url": "https://www.linkedin.com/in/william-liang808/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Spicy.Will",
+        "url": "http://instagram.com/spicy.will"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Stocks",
       "keywords": [
       ]
     },
@@ -65,8 +58,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Html", 
+        "CSS"
       ]
     },
     {
@@ -75,35 +68,36 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "IntelliJ",
+        "Eclipse",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.9",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa",
+      "position": "Web Application Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-12-28",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Support development of web applications for UH Manoa.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee web application",
+        "Drive, design and build codebase for UH Manoa web app"
       ]
     },
     {
