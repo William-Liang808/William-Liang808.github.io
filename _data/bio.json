@@ -42,6 +42,15 @@
       "name": "Personal Finance",
       "keywords": [
       ]
+    },
+    {
+      "name": "Block Chain Technology",
+      "keywords": [
+        "Crypto Currency",
+        "Bitcoin",
+        "Ethereum",
+        "NFT"
+      ]
     }
   ],
   "skills": [
@@ -53,7 +62,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Html", 
+        "HTML",
         "CSS"
       ]
     },
@@ -65,20 +74,26 @@
         "Ubuntu",
         "Windows",
         "IntelliJ",
-        "Eclipse",
-        "Git/GitHub"
+        "Eclipse"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2023)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2020-08-01",
       "endDate": "Present",
       "gpa": "3.9",
       "courses": [
+        "ICS 314: Software Engineering I",
+        "ICS 311: Algorithms",
+        "ICS 212: C/C++ Programming",
+        "ICS 241: Discrete Math II for CS",
+        "ICS 211: Data Structures",
+        "ICS 141: Discrete Math I for CS",
+        "ICS 111: Intro to Java"
       ]
     }
   ],
@@ -89,7 +104,7 @@
       "website": "",
       "startDate": "2021-12-28",
       "endDate": "Present",
-      "summary": "Support development of web applications for UH Manoa.",
+      "summary": "Support development of web applications for UH Manoa",
       "highlights": [
         "Maintain, update, and oversee web application",
         "Drive, design and build codebase for UH Manoa web app"
@@ -109,9 +124,8 @@
         "Worked under supervision of senior engineering and technical staff."
       ]
     }
-  ]
-    },
   ],
+
   "references": [
     {
       "name": "Available upon request",
