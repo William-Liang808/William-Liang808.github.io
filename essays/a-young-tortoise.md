@@ -11,7 +11,7 @@ labels:
 ---
 
 <img class="ui large centered image" src="../images/flying-turtle.png">
-<h2> Rising Star </h2>
+<h2> A Rising Star </h2>
 My coding and programming experience began in my freshman year of high school in my STEM course that they had luckily provided. I originally signed up for the wrong class and had to transfer into my STEM course at the time which was full, however, the teacher had given me an exception to join the class. This is where my journey begins as a CS student.
 
 The very first coding experience I had was with HTML and CSS, having to make my own front end of my first website which was exciting to do since I realized that this is what people actually have to do in the real world. The experience gained from the very first class really caught my eye into the world of computer science and the practicality of it all. Throughout the very first year, I also had a short encounter with JavaScript which showed us how to provide more functionality to our websites.
