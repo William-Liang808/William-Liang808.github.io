@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Another New World
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-16
+date: 2022-01-17
 labels:
   - Software Engineering
   - Learning
