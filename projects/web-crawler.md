@@ -11,7 +11,7 @@ labels:
 summary: A simple web crawler built with Java.
 ---
 
-<img class="ui image" src="../images/web-crawler.jpg">
+<img class="ui image" src="../images/web-crawler.png">
 
 This simple web crawler made using solely Java is all about taking in a web link as well as a specified wanted level as an input and outputting the number of links found given the web link. It essentially "digs" into the file to display other weblinks up until the specified wanted level as been reached. 
 
