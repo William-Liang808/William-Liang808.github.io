@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/lens-studio.png
+image: images/lens-studio-head.png
 title: AR Lens Studio Card
 permalink: projects/ar-lens-studio-card
 # All dates must be YYYY-MM-DD format!
