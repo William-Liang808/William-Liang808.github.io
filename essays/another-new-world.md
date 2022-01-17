@@ -17,7 +17,7 @@ JavaScript is not like another familiar-sounding coding language that we may kno
 
 My previous experience with JavaScript comes from a high school introduction in my stem class. The course only went over the basics of JavaScript, much like any short introductions, only the basics were run through the course and I gained knowledge of how arrays, loops, and functions worked as well as the overall surface of how JavaScript works. 
 
-<h2>A Look Back on ES6</h2>
+<h2>New JavaScript?</h2>
 This new module presented in the course really opened up my eyes to how in-depth JavaScript can really be and how much it has to offer as a programming language. The incorporation of ES6 really streamlines the javascript coding experience. Everything in ES6 was foreign and exciting, I have not seen anything like it before so it did present a bit of a learning curve in the beginning. It still is an obstacle that I have to get over and practice a lot to get used to the new conventions of ES6 and how to properly and effectively use it. JavaScript is a such great language to have under your belt especially since it is such a dominant language when it comes to the web. The functionality of it is nearly endless. 
 
 
