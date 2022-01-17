@@ -19,7 +19,7 @@ Although this was a solo project, I did gain help and advice from peers alike an
 
 Through out the course of working on this simple project I had learned so much. From extracting links given from an HTML document, using regular expressions to filter through the given input and find web addresses, and using everything up until this point, feeding everything into a breadth-first search and depth-first search algorithm to display the wanted output, there was a lot to process. Many new ideas and advanced subjects were brought up at the time since the highest ICS course I had under my belt was only ICS 111 (Intro to Java). I was doing the project concurrently with my enrollment in ICS 211 (Data Structures). The hardest part of this project was definitely the implementation of the graph traversal algorithms which was more formally introduced to me the following semester in my ICS 311 (Algorithms) course. 
 
-Source Code: <a href = "https://github.com/William-Liang808/Java-Web-Crawler">https://github.com/William-Liang808/Java-Web-Crawler</a>.
+Source: <a href = "https://github.com/William-Liang808/Java-Web-Crawler"><i class="large github icon"></i>https://github.com/William-Liang808/Java-Web-Crawler</a>.
 
 
 
