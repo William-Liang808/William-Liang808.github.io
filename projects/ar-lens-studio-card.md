@@ -24,4 +24,4 @@ The project was made through Snapchat's own Lens Studio which is a real-time pow
 
 
 Data file can be found here: <a href="https://github.com/William-Liang808/AR-Lens-Studio-Card"><i class="large github icon"></i>William-Liang808/AR-Lens-Studio-Card<br></a>
-More information of Lens Studio can be found here: <a href="https://lensstudio.snapchat.com/">https://lensstudio.snapchat.com</a>
+You can learn more at <a href="https://lensstudio.snapchat.com/">lensstudio.snapchat.com</a>
