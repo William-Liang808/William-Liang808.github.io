@@ -22,5 +22,5 @@ This was a small and fun project to do solely on my own and really taught me wha
 The project was made through Snapchat's own Lens Studio which is a real-time powerful software application aimed towards artists and developers to build augmented reality experiences. The learning curve was steep as this is not regularly taught in school so a lot of external sources were needed to learn how the software worked. There were scripts that were able to be edited in JavaScript as well as available templates to roughly get your project started. I was able to scan my library card into the program as a simple mesh which Lens Studio then proceeded to do the rest of the work for me. 
 
 
-Data file can be found here: <a href="https://github.com/William-Liang808/AR-Lens-Studio-Card"><i class="large github icon"></i>https://github.com/William-Liang808/AR-Lens-Studio-Card</a>
+Data file can be found here: <a href="https://github.com/William-Liang808/AR-Lens-Studio-Card"><i class="large github icon"></i>https://github.com/William-Liang808/AR-Lens-Studio-Card<br></a>
 More information of Lens Studio can be found here: <a href="https://lensstudio.snapchat.com/">https://lensstudio.snapchat.com</a>
