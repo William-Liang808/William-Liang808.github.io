@@ -5,7 +5,7 @@ image: images/blue-dot.png
 title: Circle Dodge Game
 permalink: projects/circle-dodge-game
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-01
+date: 2020-01-12
 labels:
   - Java
   - Processing
