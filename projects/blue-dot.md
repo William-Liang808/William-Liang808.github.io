@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/blue-dot.png
-title: Cotton
+title: Circle Dodge Game
 permalink: projects/blue-dot
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-01
@@ -12,8 +12,8 @@ labels:
 summary: A simple circle doding game.
 ---
 
-<img src="../images/circle-dodge-example1.png">
-<img src="../images/circle-dodge-example2.png">
+<img src="../images/circle-dodge-example1.png" width=50% height=50% padding=5px float:left>
+<img src="../images/circle-dodge-example2.png" width=50% height=50% padding=5px float:left>
 
 // Description
 
