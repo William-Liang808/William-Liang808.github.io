@@ -2,24 +2,25 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: AR Lens Studio Card
+permalink: projects/ar-lens-studio-card
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-01-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Lens Studio
+  - AR
+  - JavaScript
+summary: A fun AR application that spawns a character when Hawaii State Library card is detected in frame.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img src="../images/lens-studio.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+My augmented reality (AR) application is a filter, or also known as a lens on Snapchat, scans for a Hawaii State Library card as shown and spawns a character jumping on the card.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This was a small and fun project to do solely on my own and really taught me what really goes into making something in augmented reality.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The project was made through Snapchat's own Lens Studio which is a real-time powerful software application aimed towards artists and developers to build augmented reality experiences. The learning curve was steep as this is not regularly taught in school so a lot of external sources were needed to learn how the software worked. There were scripts that were able to be edited in JavaScript as well as available templates to roughly get your project started. I was able to scan my library card into the program as a simple mesh which Lens Studio then proceeded to do the rest of the work for me. 
+
+
+Data file can be found here: <a href="https://github.com/William-Liang808/AR-Lens-Studio-Card">https://github.com/William-Liang808/AR-Lens-Studio-Card</a>
+More information of Lens Studio can be found here: <a href="https://lensstudio.snapchat.com/">https://lensstudio.snapchat.com</a>
