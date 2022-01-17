@@ -19,6 +19,7 @@ My augmented reality (AR) application is a filter, or also known as a lens on Sn
 
 This was a small and fun project to do solely on my own and really taught me what really goes into making something in augmented reality.
 
+<img class="ui medium right floated rounded image" src="/images/ar-example.jpg">
 The project was made through Snapchat's own Lens Studio which is a real-time powerful software application aimed towards artists and developers to build augmented reality experiences. The learning curve was steep as this is not regularly taught in school so a lot of external sources were needed to learn how the software worked. There were scripts that were able to be edited in JavaScript as well as available templates to roughly get your project started. I was able to scan my library card into the program as a simple mesh which Lens Studio then proceeded to do the rest of the work for me. 
 
 
