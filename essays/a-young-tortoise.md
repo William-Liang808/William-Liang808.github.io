@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: A Young Tortoise
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-17
+date: 2022-01-16
 labels:
   - Software Engineering
   - Learning
