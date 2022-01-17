@@ -23,6 +23,6 @@ I was the sole maker of the code for the game, it incorporates coding with Java 
 
 
 Source: <a href="https://github.com/William-Liang808/Circle-Dodge-Game"><i class="large github icon "></i>William-Liang808/Circle-Dodge-Game<br></a>
-Learn more about Processing: <a href"https://processing.org/">Processing</a>
+Learn more about Processing: <a href"https://processing.org">Processing</a>
 
 
