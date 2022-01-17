@@ -12,11 +12,9 @@ labels:
 summary: A simple circle doding game.
 ---
 
-<div style=padding:5px style=float:left>
-  <img src="../images/circle-dodge-example1.png" style=width:50% style=height:50%>
-</div>
-<div style=padding:5px style=float:left>
-  <img src="../images/circle-dodge-example2.png" style=width:50% style=height:50%>
+<div style="display:flex">
+  <img src="../images/circle-dodge-example1.png" style="width:50%" style="height:50%">
+  <img src="../images/circle-dodge-example2.png" style="width:50%" style="height:50%">
 </div>
 
 // Description
