@@ -9,7 +9,26 @@ labels:
   - Stack Overflow
 ---
 
-## First Paragraph
-We have all heard the phrase "there are no bad questions" in our lives or some derivation of that phrase. 
-Turns out, that is far from the truth depending on the way you look at what is considered a "bad question". 
-There are also many factors to consider when asking a "good question" in software engineering and just
+We have all heard the phrase "there are no bad questions" in our lives or some derivation of that phrase. Turns out, that is far from the truth depending on the way you look at what is considered a "bad question". There are also many factors to consider when asking a "good question" that does not only pertain to the field of software engineering. This is not only applicable outside the realm of tech, but also in our daily lives. 
+
+## What Constitutes As a Good Question?
+In Eric Steven Raymond’s article all about asking good and bad questions, they give a good basic understanding of what constitutes as a “good” or “bad” question. There are many criteria that are involved when asking a “good” question. It can be broken up into two categories; before you ask and when you ask.
+
+Before you ask a question, one of the first things that you should do is Google your question. Google different variations of that question as well to try and find the answer you’re looking for. As a person who does not like constantly asking others for help, this was my go-to solution for most, if not all my problems and I have always managed to get the answer I look for through a few searches. 
+
+This is Raymond’s guidelines to smart questions prior to actually asking:  
+```
+1. Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+
+2. Try to find an answer by searching the Web.
+
+3. Try to find an answer by reading the manual.
+
+4. Try to find an answer by reading a FAQ.
+
+5. Try to find an answer by inspection or experimentation.
+
+6. Try to find an answer by asking a skilled friend.
+
+7. If you're a programmer, try to find an answer by reading the source code.
+```
