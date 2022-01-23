@@ -52,7 +52,7 @@ When asking a question on whatever forum or discussion site of your choice, you 
 Furthermore, when asking, your header in your question should contain no jargon with a clear and precise problem that you would want to be answered. Let's now jump into analyzing our first Stack Overflow questions. 
 
 ## The Bad
-<a href=”https://stackoverflow.com/questions/66285742/can-i-do-anything-to-make-my-webscraper-look-better”>This post </a> is a fairly bad question and there are a few things that we can point out through Raymond’s guidelines of to do and what not to do. 
+<a href="https://stackoverflow.com/questions/66285742/can-i-do-anything-to-make-my-webscraper-look-better">This post</a> is a fairly bad question and there are a few things that we can point out through Raymond’s guidelines of to do and what not to do. 
 
 One of the big red flags present in this question posted is the subjective header pertaining to the phrase “look better.” What may look better to me may not look better to others and this ambiguity leaves a lot hanging. It is not explicit at all. 
 
