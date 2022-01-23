@@ -49,23 +49,32 @@ When asking a question on whatever forum or discussion site of your choice, you 
 4. Do not post a personal e-mail to somebody who is neither an acquaintance of
    yours nor personally responsible for solving your problem
 ```
+
 Furthermore, when asking, your header in your question should contain no jargon with a clear and precise problem that you would want to be answered. Let's now jump into analyzing our first Stack Overflow questions. 
 
 ## The Bad
 <a href="https://stackoverflow.com/questions/66285742/can-i-do-anything-to-make-my-webscraper-look-better">This post</a> is a fairly bad question and there are a few things that we can point out through Raymond’s guidelines of to do and what not to do. 
 
-First off, let me go over what the post is about and what they asked. Someone posted a question titled "Can i do anything to make my webscraper look better?" and followed up the post with 
-
+Let me briefly go over what the post is about and what they asked. Someone posted a question titled "Can i do anything to make my webscraper look better?" and followed up the post with 
 > I got my desired output, but it is all over the place, how do I make it cleaner?
-
 As well as a few screenshots of their code and output. 
 
 One of the big red flags present in this question posted is the subjective header pertaining to the phrases “look better” and "how do I make it cleaner". What may look better to me may not look better to others and this ambiguity leaves a lot hanging. It is not explicit at all. 
 
 Someone on the forum even asked
-
 > Define "cleaner"
+which is a clear sign of an implicit question that could have been built upon more. Perhaps they could have asked, "How do I remove white space from a string" which is what they may have meant in the first place. 
 
-which is a clear sign of an implicit question which could have been built upon more. Perhaps they could have asked "How do I remove white space from a string" which is what they may have meant in the first place. 
+## The Good
+A great question that I have come across can be found <a href=”https://stackoverflow.com/questions/1144783/how-to-replace-all-occurrences-of-a-string-in-javascript?rq=1”>here</a> 
+
+The question posted is titled “How to replace all occurrences of a string in JavaScript”
+The post header cuts to the point with an explicit and meaningful question, they posted what they have already done and further expands on what they would like to see as the output. 
+
+## The Conclusion
+
+
+
+
 
 
