@@ -66,7 +66,7 @@ Someone on the forum even asked
 which is a clear sign of an implicit question that could have been built upon more. Perhaps they could have asked, "How do I remove white space from a string" which is what they may have meant in the first place. 
 
 ## The Good
-A great question that I have come across can be found <a href=”https://stackoverflow.com/questions/1144783/how-to-replace-all-occurrences-of-a-string-in-javascriptrq=1”>here</a> 
+A great question that I have come across can be found <a href=”https://stackoverflow.com/questions/1144783/how-to-replace-all-occurrences-of-a-string-in-javascript”>here</a> 
 
 The question posted is titled “How to replace all occurrences of a string in JavaScript”
 The post header cuts to the point with an explicit and meaningful question, they posted what they have already done and further expands on what they would like to see as the output. 
