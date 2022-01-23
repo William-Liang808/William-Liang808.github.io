@@ -19,8 +19,8 @@ Before you ask a question, one of the first things that you should do is Google 
 
 This is Raymond’s guidelines to smart questions prior to actually asking:  
 ```
-1. Try to find an answer by searching the archives of 
-    the forum or mailing list you plan to post to.
+1. Try to find an answer by searching the archives of the forum or mailing 
+   list you plan to post to.
 
 2. Try to find an answer by searching the Web.
 
@@ -41,12 +41,12 @@ When asking a question on whatever forum or discussion site of your choice, you 
 ``` 
 1. Do not post your question to a forum where it's off topic
 
-2. Do not post a very elementary question to a forum where 
-    advanced technical questions are expected, or vice-versa
+2. Do not post a very elementary question to a forum where advanced technical
+   questions are expected, or vice-versa
 
 3. Do not cross-post to too many different newsgroups
 
-4. Do not post a personal e-mail to somebody who is neither an
-    acquaintance of yours nor personally responsible for solving your problem
+4. Do not post a personal e-mail to somebody who is neither anacquaintance of
+   yours nor personally responsible for solving your problem
 ```
 
