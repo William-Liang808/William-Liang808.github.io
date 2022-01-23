@@ -46,7 +46,7 @@ When asking a question on whatever forum or discussion site of your choice, you 
 
 3. Do not cross-post to too many different newsgroups
 
-4. Do not post a personal e-mail to somebody who is neither anacquaintance of
+4. Do not post a personal e-mail to somebody who is neither an acquaintance of
    yours nor personally responsible for solving your problem
 ```
 
