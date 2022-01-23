@@ -9,7 +9,7 @@ labels:
   - Stack Overflow
 ---
 
-## First Paragraph##
+## First Paragraph
 We have all heard the phrase "there are no bad questions" in our lives or some derivation of that phrase. 
 Turns out, that is far from the truth depending on the way you look at what is considered a "bad question". 
 There are also many factors to consider when asking a "good question" in software engineering and just
