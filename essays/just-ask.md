@@ -57,12 +57,14 @@ Furthermore, when asking, your header in your question should contain no jargon 
 
 Let me briefly go over what the post is about and what they asked. Someone posted a question titled "Can i do anything to make my webscraper look better?" and followed up the post with 
 > I got my desired output, but it is all over the place, how do I make it cleaner?
+
 As well as a few screenshots of their code and output. 
 
 One of the big red flags present in this question posted is the subjective header pertaining to the phrases “look better” and "how do I make it cleaner". What may look better to me may not look better to others and this ambiguity leaves a lot hanging. It is not explicit at all. 
 
 Someone on the forum even asked
 > Define "cleaner"
+
 which is a clear sign of an implicit question that could have been built upon more. Perhaps they could have asked, "How do I remove white space from a string" which is what they may have meant in the first place. 
 
 ## The Good
