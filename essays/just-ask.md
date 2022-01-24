@@ -71,6 +71,8 @@ A great question that I have come across can be found <a href="https://stackover
 The question posted is titled “How to replace all occurrences of a string in JavaScript”. With a post header that cuts to the point with an explicit and meaningful question, followed up with what they have already done, and further expands on what they would like to see as the output, this is embodies the characteristics of a smart question.
 
 ## The Conclusion
+With everything being said, it is clear from both examples that “bad” questions may result in “bad” and inefficient responses. Vice-versa for “good” questions. The result of this analysis of both Stack Overflow questions really highlights how much of an important asset it is to be good at communicating your questions across to others and how to properly do so. Not just as a software engineer, but as a person who wants their questions answered no matter what the subject is. Communication as a student is one of the most important skills we need. 
+
 
 
 
