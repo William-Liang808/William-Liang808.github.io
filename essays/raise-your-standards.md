@@ -23,6 +23,6 @@ I remember helping out a peer on their debugging process and did not want to say
 
 <img class="ui medium right floated image" src="../images/good_code.png">
 ## Love / Hate Relationship
-At times I feel that ESLint does slow me down when in the process of problem solving, and one way I avoid being slowed down is by solving the problem first, ignoring the coding standards, then going back and fixing all the errors I have made. 
+At times I feel that ESLint does slow me down when in the process of problem solving, and one way I avoid being slowed down is by solving the problem first, ignoring the coding standards, then going back and fixing all the errors I have made. This is probably bad practice but I live and I learn. I think the best way to overcome this is probably to just force myself to code in code style standard, that way, I don't have to worry about it in the end.
 
 In the long run, I know that adhering to the code standard is not just beneficial for me, but it is highly beneficial for others that may be working on the same project that I am. The legibility that comes from code standards saves tons of time, rather than scouring through a pile of work, we are able to identify problems faster to efficiently manage our time working on whatever it may be. I do have to say that fixing the final line of ESLint error, changing the top right from a red error sight to a green checkmark is a nice thing to see at the end of a project. 
