@@ -8,7 +8,7 @@ labels:
   - Career Development
   - RadGrad
 ---
-
+<img class="ui medium middle floated image" src="../images/radgrad-banner.png">
 ## A Familiar Setting
 As new of an experience RadGrad is for me, many of the features seen in this great platform have already been implemented into my life as a CS student here at UH Manoa. The degree planner is one of the things that I have been using prior to RadGrad which is an excellent way of keeping me on track to finishing my degree and getting the career I strive for. There are also tons of career options to browse through here, and it does seem overwhelming at times to pick and choose what I may want to do in the future, but that is what college is all about. Experimenting and trying new things to figure out what I want in life. I have seen many of the presented opportunities, careers, and interests, however, I still do not know what I may want to pursue on this current track. 
 
