@@ -20,6 +20,7 @@ I believe that RadGrad is a great platform to buckle down on what you have to do
 
 In my opinion, someone in this degree path without any knowledge of what careers or opportunities are present will immensely benefit from using RadGrad. 
 
+<img class="ui medium left floated image" src="../images/ninja.png">
 ## Ninja 
 With all that said, even though I do not personally think RadGrad will be as beneficial for me, it does not hurt to consistently use the platform for personal use. I do hope to ultimately reach the ninja level black badge as a little trophy to myself that I was able to reach this moment. If I am able to reach ninja-level status, then I know for sure that I will be ready for whatever comes my path.  
 
