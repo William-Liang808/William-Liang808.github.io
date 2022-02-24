@@ -21,7 +21,7 @@ So, what's the difference between a website incorporating a UI framework compare
 <img class="ui huge rounded floated image" src="../images/raw-html-css.png">
 <img class="ui huge rounded floated image" src="../images/semantic.png">
 
-The differences are very noticeable between these two web pages. With semantic UI I am able to make a navbar with the call of a few classes assigned to my div tags. The same navbar that was created in raw HTML & CSS can be done better and in fewer lines of code. It also looks more pleasing to the eyes than the site built in raw HTML & CSS which is displayed as the first image shown. By creating the site without a framework, our creation is very limited to what it can look like. 
+<br>The differences are very noticeable between these two web pages. With semantic UI I am able to make a navbar with the call of a few classes assigned to my div tags. The same navbar that was created in raw HTML & CSS can be done better and in fewer lines of code. It also looks more pleasing to the eyes than the site built in raw HTML & CSS which is displayed as the first image shown. By creating the site without a framework, our creation is very limited to what it can look like. 
 
 ## Advantages
 
