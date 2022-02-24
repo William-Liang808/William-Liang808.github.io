@@ -17,3 +17,6 @@ Prior to taking Software Engineering (ICS 314), I have never incorporated a UI f
 ## Semantic VS Raw HTML/CSS
 
 So, what's the difference between a website incorporating a UI framework compared to a website using just raw HTML and CSS? The result is almost day and night.
+
+<img class="ui large medium left floated image" src="../images/raw-html-css.png">
+<img class="ui large medium right floated image" src="../images/semantic.png">
