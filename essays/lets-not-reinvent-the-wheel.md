@@ -26,3 +26,7 @@ The differences are very noticeable between these two web pages. With semantic U
 ## Advantages
 
 As said in my title, we should not have to reinvent the wheel when it comes to UI design since a lot has already been built for us through the amazing and free frameworks. Need a nice menu? Semantic has it. What about a button with a heart icon in the center? You do not need to know how to make it with raw HTML & CSS because the Semantic framework also has it under its various libraries. With Semantic the possibilities are endless. The features of Semantic is well documented and I was able to find just about everything I need to create an amazing-looking webpage with a little amount of coding in HTML and CSS. I believe that with enough time and effort given to learn a framework such as Semantic UI, the returns it will provide will be much greater in the short and long term. 
+
+## Disadvantages
+
+You may finish whatever work you may have a little too fast. If you're getting paid by the hour, this may be the only downside that I see. Other than that, in my opinion there are no disadvantages to using a framework such as Semantic. 
