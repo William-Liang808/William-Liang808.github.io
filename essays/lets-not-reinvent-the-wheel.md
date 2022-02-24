@@ -18,5 +18,5 @@ Prior to taking Software Engineering (ICS 314), I have never incorporated a UI f
 
 So, what's the difference between a website incorporating a UI framework compared to a website using just raw HTML and CSS? The result is almost day and night.
 
-<img class="ui large rounded floated image" src="../images/raw-html-css.png">
-<img class="ui large rounded floated image" src="../images/semantic.png">
+<img class="ui fluid rounded floated image" src="../images/raw-html-css.png">
+<img class="ui fluid rounded floated image" src="../images/semantic.png">
