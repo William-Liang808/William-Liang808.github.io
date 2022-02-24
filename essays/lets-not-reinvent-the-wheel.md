@@ -20,3 +20,9 @@ So, what's the difference between a website incorporating a UI framework compare
 
 <img class="ui huge rounded floated image" src="../images/raw-html-css.png">
 <img class="ui huge rounded floated image" src="../images/semantic.png">
+
+The differences are very noticeable between these two web pages. With semantic UI I am able to make a navbar with the call of a few classes assigned to my div tags. The same navbar that was created in raw HTML & CSS can be done better and in fewer lines of code. It also looks more pleasing to the eyes than the site built in raw HTML & CSS which is displayed as the first image shown. By creating the site without a framework, our creation is very limited to what it can look like. 
+
+## Advantages
+
+As said in my title, we should not have to reinvent the wheel when it comes to UI design since a lot has already been built for us through the amazing and free frameworks. Need a nice menu? Semantic has it. What about a button with a heart icon in the center? You do not need to know how to make it with raw HTML & CSS because the Semantic framework also has it under its various libraries. With Semantic the possibilities are endless. The features of Semantic is well documented and I was able to find just about everything I need to create an amazing-looking webpage with a little amount of coding in HTML and CSS. I believe that with enough time and effort given to learn a framework such as Semantic UI, the returns it will provide will be much greater in the short and long term. 
