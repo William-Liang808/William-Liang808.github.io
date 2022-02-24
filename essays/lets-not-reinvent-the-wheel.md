@@ -29,4 +29,4 @@ As said in my title, we should not have to reinvent the wheel when it comes to U
 
 ## Disadvantages
 
-You may finish whatever work you may have a little too fast. If you're getting paid by the hour, this may be the only downside that I see. Other than that, in my opinion there are no disadvantages to using a framework such as Semantic. 
+You may finish whatever work you may have a little too fast. If you're getting paid by the hour, this may be the only downside that I see. Other than that, in my opinion there are no disadvantages to using a framework such as Semantic.<br> 
