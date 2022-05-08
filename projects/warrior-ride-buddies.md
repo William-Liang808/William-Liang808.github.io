@@ -30,4 +30,6 @@ You are able to add trips to and from UH Manoa depending on day, time, arrival, 
 
 Through out the course of this project, I had gravitated towards doing UI work for the project as well as creating tests to assure that the web application is working as expected.
 
+Not only has the project given me experience with near real-life work, it has shown me how to properly use a version control system (git) with others, and has given me more experience with working with others rather than working on a single person project like I have with most of my other courses. 
+
 You can learn more at <a href="https://warrior-ride-buddies.github.io/">warrior-ride-buddies.github.io</a>
