@@ -56,6 +56,11 @@
       "name": "Metaverse",
       "keywords": [
       ]
+    },
+    {
+     "name": "Web Development",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -68,7 +73,11 @@
         "Java",
         "Javascript",
         "HTML",
-        "CSS"
+        "CSS",
+        "Meteor",
+        "MongoDB",
+        "React",
+        "Semantic UI"
       ]
     },
     {
