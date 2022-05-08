@@ -9,7 +9,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui large centered image" src="../images/roller-coaster.jpeg">
+<img class="ui large centered image" src="../images/roller-coaster.jpg">
 <h2> My Rising Tech Stack </h2>
 Through out the entirety of this course, my personal technology stack had grown substantially. Although this course was focused on web development, it had taught me a lot more than just web development. ICS 314 has pushed me to learn new technology within a short span of time given. This was emphasized through weekly "workout of the days" which were basically small quizzes testing our knowledge of the module assigned that given week. I felt that this really helped me actually learn the material rather than having the information go in one ear and out the other. From coding standards to frameworks the experience gained here was immense. 
 
