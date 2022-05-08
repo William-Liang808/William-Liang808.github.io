@@ -19,7 +19,7 @@ labels:
 summary: A community carpooling service with the goal of bringing together UH faculty and students together.
 ---
 
-<img src="../images/WRB-logo.png" class="centered">
+<img src="../images/WRB-logo.png" class="ui centered image">
 
 ...
 
