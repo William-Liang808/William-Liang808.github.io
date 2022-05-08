@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/WRB-logo.png
+image: images/WRB-icon.png
 title: AR Lens Studio Card
 permalink: projects/warrior-ride-buddies
 # All dates must be YYYY-MM-DD format!
@@ -19,7 +19,7 @@ labels:
 summary: A community carpooling service with the goal of bringing together UH faculty and students together.
 ---
 
-<img src="../images/WRB-logo.png">
+<img src="../images/WRB-logo.png" class="centered">
 
 ...
 
