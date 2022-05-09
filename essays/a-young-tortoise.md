@@ -8,6 +8,8 @@ labels:
   - Software Engineering
   - Learning
   - Reflection
+
+draft: true
 ---
 
 <img class="ui large centered image" src="../images/flying-turtle.png">
