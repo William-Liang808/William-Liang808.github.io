@@ -7,6 +7,8 @@ date: 2022-01-23
 labels:
   - Learning
   - Stack Overflow
+
+draft: true
 ---
 
 We have all heard the phrase "there are no bad questions" in our lives or some derivation of that phrase. Turns out, that is far from the truth depending on the way you look at what is considered a "bad question". There are also many factors to consider when asking a "good question" that does not only pertain to the field of software engineering. This is not only applicable outside the realm of tech, but also in our daily lives. 
