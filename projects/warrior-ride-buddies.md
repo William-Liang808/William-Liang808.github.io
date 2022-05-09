@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/WRB-icon.png
-title: AR Lens Studio Card
+title: Warrior Ride Buddies
 permalink: projects/warrior-ride-buddies
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-08
