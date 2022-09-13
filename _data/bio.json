@@ -72,12 +72,16 @@
         "C++",
         "Java",
         "Javascript",
+        "Jasmine",
         "HTML",
         "CSS",
         "Meteor",
         "MongoDB",
         "React",
-        "Semantic UI"
+        "Vue",
+        "iView",
+        "Semantic UI",
+        "Bootstrap"
       ]
     },
     {
@@ -89,20 +93,33 @@
         "Windows",
         "IntelliJ",
         "Eclipse",
-        "Git / Github"
+        "Unix Terminal",
+        "Kanban",
+        "JIRA",
+        "Agile",
+        "Git / Github",
+        "Bit Bucket",
+        "Postman",
+        "JMeter"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2020-08-01",
       "endDate": "Present",
       "gpa": "3.9",
       "courses": [
+        "ICS 428: Digital Forensics",
+        "ICS 426: Computer Security & Ethics",
+        "ICS 451: Data Networks",
+        "ICS 414: Software Engineering II",
         "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems",
+        "ICS 332: Operating Systems",
         "ICS 311: CS Algorithms",
         "ICS 212: C/C++ Programming",
         "ICS 241: Discrete Math II for CS",
@@ -115,14 +132,28 @@
   "work": [
     {
       "company": "UH Manoa",
+      "position": "Software Developer Intern",
+      "website": "https://www.eworldes.com/",
+      "startDate": "2022-06-06",
+      "endDate": "Present",
+      "summary": "Intern under eWorld's Department of Transportation Harbors project developing and maintaining port tracking system",
+      "highlights": [
+        "Collaborate with the Department of Transportation to implement their web application for control of ships at harbors around Hawaii.",
+        "Use Vue, Java, and other varioustechnologiesto implement functionality for DoT Harbors application.",
+        "Create teststo verify the functionality of newly implemented code."
+      ]
+    },
+    {
+      "company": "UH Manoa",
       "position": "Web Application Developer",
       "website": "https://github.com/uhawaii-system-its-ti-iam",
       "startDate": "2021-12-28",
-      "endDate": "Present",
-      "summary": "Support development of web applications for UH Manoa",
+      "endDate": "2022-06-03",
+      "summary": "Support development of web application for UH Manoa",
       "highlights": [
-        "Maintain, update, and oversee web application",
-        "Drive, design and build codebase for UH Manoa web app"
+        "Contribute to the development of UI and API functionality on UH Groupings project.",
+        "Implement varioustechnologies and frameworkssuch as Bootstrap and JavaScript to upkeep applications.",
+        "Increase JavaScript Jasmine test coverage from 10% to 90%."
       ]
     },
     {
@@ -136,7 +167,26 @@
         "Assisted in developing VR applications through Unity.",
         "Reported status, deadlines, issues and achievements to Program Management.",
         "Summarized and presented internship learning and experience to the leadership team.",
-        "Worked under supervision of senior engineering and technical staff."
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "title": "Warrior Ride Buddies",
+      "website": "https://warrior-ride-buddies.github.io/",
+      "highlights": [
+        "Built a full-stack web app with a team of 4 othersto connect users and assist in scheduling carpoolschedules.",
+        "Utilized Google Maps API to feature a functional map and user locations for easy identification.",
+        "Allows for direct messages between single or multiple users to communicate to schedule carpool plans.",
+        "Tech stack: JavaScript, HTML/CSS, React, Semantic UI, Google Maps API, Meteor, MongoDB"
+      ]
+    },
+    {
+      "title": "UH Groupings",
+      "website": "https://www.test.hawaii.edu/uhgroupings/info",
+      "summary": "UH Groupings is a web application that allows the user to communicate with certain groups within the University of Hawaii system i.e. (e.g., all full-time Hilo faculty). Some features include including and excluding certain subgroups",
+      "highlights": [
+        "Tech stack: Apache Maven, Apache Tomcat, Java Spring Framework, Spring Boot, Spring Security, Thymeleaf, Bootstrap, AngularJS, JQuery, Jasmine, Jenkins, Underscore.js"
       ]
     }
   ],
@@ -148,7 +198,6 @@
       "summary": "Scholarships awarded to freshman and sophomore students with a 3.5 GPA."
     }
   ],
-
   "references": [
     {
       "name": "Available upon request",
