@@ -170,6 +170,7 @@
     {
       "title": "Sustainability GAWKY (Gavin, Alyssia, William, Kobey, Yong-Sung)",
       "website": "https://sus-gawky.meteorapp.com/",
+      "summary": "",
       "highlights": [
         "App revolves around the gamification of tracking our carbon footprint to better our local communities and the world.",
         "As a User, you are able to track in-depth details about your life such as food wasted, miles commuted via car, bike, walking, etc. These features work in tandem to provide a cohesive gamified experience where you are able to earn points and level up. ",
@@ -179,6 +180,7 @@
     {
       "title": "Warrior Ride Buddies",
       "website": "https://warrior-ride-buddies.github.io/",
+      "summary": "",
       "highlights": [
         "Built a full-stack web app with a team of 4 others to connect users and assist in scheduling carpool schedules.",
         "Utilized Google Maps API to feature a functional map and user locations for easy identification.",
