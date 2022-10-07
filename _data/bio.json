@@ -92,7 +92,8 @@
         "Kanban",
         "JIRA",
         "Agile",
-        "Git / Github",
+        "Git",
+        "Github",
         "Bit Bucket",
         "Postman",
         "JMeter"
@@ -134,8 +135,8 @@
       "summary": "Intern under eWorld's Department of Transportation Harbors project developing and maintaining port tracking system",
       "highlights": [
         "Collaborate with the Department of Transportation to implement their web application for control of ships at harbors around Hawaii.",
-        "Use Vue, Java, and other varioustechnologiesto implement functionality for DoT Harbors application.",
-        "Create teststo verify the functionality of newly implemented code."
+        "Use Vue, Java, and other various technologies to implement functionality for DoT Harbors application.",
+        "Create tests to verify the functionality of newly implemented code."
       ]
     },
     {
@@ -147,7 +148,7 @@
       "summary": "Support development of web application for UH Manoa",
       "highlights": [
         "Contribute to the development of UI and API functionality on UH Groupings project.",
-        "Implement varioustechnologies and frameworkssuch as Bootstrap and JavaScript to upkeep applications.",
+        "Implement various technologies and frameworks such as Bootstrap and JavaScript to upkeep applications.",
         "Increase JavaScript Jasmine test coverage from 10% to 90%."
       ]
     },
@@ -161,7 +162,7 @@
       "highlights": [
         "Assisted in developing VR applications through Unity.",
         "Reported status, deadlines, issues and achievements to Program Management.",
-        "Summarized and presented internship learning and experience to the leadership team.",
+        "Summarized and presented internship learning and experience to the leadership team."
       ]
     }
   ],
@@ -171,7 +172,7 @@
       "website": "https://sus-gawky.meteorapp.com/",
       "highlights": [
         "App revolves around the gamification of tracking our carbon footprint to better our local communities and the world.",
-        "As a User, you are able to track in depth details about your life such as food wasted, miles commuted via car, bike, walking, etc. These features work in tandem to provide a cohesive gamified experience where you are able to earn points and level up. ",
+        "As a User, you are able to track in-depth details about your life such as food wasted, miles commuted via car, bike, walking, etc. These features work in tandem to provide a cohesive gamified experience where you are able to earn points and level up. ",
         "Tech stack: JavaScript, HTML/CSS, React, Bootstrap, Google Maps API, Open Street Maps API, Meteor, MongoDB"
       ]
     },
@@ -179,7 +180,7 @@
       "title": "Warrior Ride Buddies",
       "website": "https://warrior-ride-buddies.github.io/",
       "highlights": [
-        "Built a full-stack web app with a team of 4 othersto connect users and assist in scheduling carpoolschedules.",
+        "Built a full-stack web app with a team of 4 others to connect users and assist in scheduling carpool schedules.",
         "Utilized Google Maps API to feature a functional map and user locations for easy identification.",
         "Allows for direct messages between single or multiple users to communicate to schedule carpool plans.",
         "Tech stack: JavaScript, HTML/CSS, React, Semantic UI, Google Maps API, Meteor, MongoDB"
