@@ -6,7 +6,7 @@
     "email": "WilliamLiang808@gmail.com",
     "phone": "808-393-8118",
     "website": "https://William-Liang808.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "Hello! I am currently a Senior at the University of Hawaii at Manoa pursuing a B.S. in Computer Science. I aspire to be a Software Engineer but am open to all sorts of jobs in computer science. More recently I have been interested in cyber security and this field's prospects. I enjoy learning more about the industry and new skill sets. One of my more recent hobbies includes keeping up with the stock market and personal finance.",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -30,11 +30,6 @@
   "interests": [
     {
       "name": "Software Engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Stocks",
       "keywords": [
       ]
     },
@@ -172,6 +167,15 @@
   ],
   "Projects": [
     {
+      "title": "Sustainability GAWKY (Gavin, Alyssia, William, Kobey, Yong-Sung)",
+      "website": "https://sus-gawky.meteorapp.com/",
+      "highlights": [
+        "App revolves around the gamification of tracking our carbon footprint to better our local communities and the world.",
+        "As a User, you are able to track in depth details about your life such as food wasted, miles commuted via car, bike, walking, etc. These features work in tandem to provide a cohesive gamified experience where you are able to earn points and level up. ",
+        "Tech stack: JavaScript, HTML/CSS, React, Bootstrap, Google Maps API, Open Street Maps API, Meteor, MongoDB"
+      ]
+    },
+    {
       "title": "Warrior Ride Buddies",
       "website": "https://warrior-ride-buddies.github.io/",
       "highlights": [
@@ -191,6 +195,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Meteor Hackathon (2nd Place)",
+      "date": "September 2022",
+      "awarder": "Meteor Software",
+      "summary": "Won second place in the 2022 Meteor Hackathon with a group of 5 out of total 94 registered teams."
+    },
     {
       "title": "UH Manoa Summer First-Year Merit Scholarship",
       "date": "April 2021",
