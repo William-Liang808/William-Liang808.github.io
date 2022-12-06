@@ -10,20 +10,13 @@ labels:
   - Reflection
 ---
 
-<img class="ui large centered image" src="../images/flying-turtle.png">
-<h2> A Rising Star </h2>
-My coding and programming experience began in my freshman year of high school in my STEM course that they had luckily provided. I originally signed up for the wrong class and had to transfer into my STEM course at the time which was full, however, the teacher had given me an exception to join the class. This is where my journey begins as a CS student.
+<h2> A New Challenge to Face </h2>
+Upon starting this Fall 2022 semester, we were immediately assigned into four different groups with 7-10 group members to tackle a challenge set fourth by the DOE. The project was to make a functional bill tracker to help the DOE essentially filter out the important bills related to them. This is an essential application for the DOE as they want to get as much funding as possible, and sometimes these bills that also carry money with them go under the radar and completely missed. Entering the first few weeks, we hit the ground running by meeting up with our client, making a new project board and assigning new tasks to start on. Nothing about this was an easy feat. A few hardships were endured during the beginning phases of this project such as conflicting time schedules to collaborate with one another outside of the class given hours, communication issues, as well as an unfamiliar techstack as a few members either didn't have any experience, or had a semester under their belt a few years back. 
 
-The very first coding experience I had was with HTML and CSS, having to make my own front end of my first website which was exciting to do since I realized that this is what people actually have to do in the real world. The experience gained from the very first class really caught my eye into the world of computer science and the practicality of it all. Throughout the very first year, I also had a short encounter with JavaScript which showed us how to provide more functionality to our websites.
+Another challenge is making sure that everyone is on the same page when it comes to the project's goals and timeline. It's important to establish clear guidelines and expectations from the outset, and to regularly check in with the team to make sure that everyone is on track.
 
-For the rest of my high school STEM course career, we jumped along from learning HTML, CSS, and JavaScript to other languages such as Python, PHP and even learned how to use the MySQL database as well as how to use the command line to navigate through our operating system. 
-
-<img class="ui medium left floated image" src="../images/progress.jpg">
-<h2> Time Flies </h2>
-All though everything seemed very slow throughout the years, collectively, I have learned so much and moved so far ahead of where I thought I would be today. In a way, all that has happened throughout school for me is analogous to the tortoise in the race with the hare. As long as I move at my own pace and gain something valuable along the way, I will win this race. 
-
-The skills I hope to gain over the next few years would really be to collaborate with others since, in the typical school setting that I have been in for the majority of my life, it was mostly a single-player game. No collaboration insight, if it was, then it would be considered cheating or unacceptable. Of course, learning new languages and frameworks is also a must. 
-
+<h2> My Experience </h2>
+Overall, I would say that my experience with my team members were great. Everyone had done their jobs and put in time and effort into the project and I fully understand at times where team memebrs could not allocate as much time due to other conflicts which is understandable. One of the rewards of working on a group project is the opportunity to learn from my peers. Each person on my team Alahele brought their own unique skills and experiences to the table, and by working together, we were able to learn from one another and grow as software engineers. Additionally, working on a team like this enabled me and others to tackle larger and more complex problems that was presented during the project timeline. This was incredibly rewarding for me as I feel like I now have more experience under my belt and can leverage this experience in the near future for sure. 
 
 <h2> What Lies in the Middle </h2>
 My interests over the years have been focused on the different aspects of computer science as well as financial topics such as stocks and investing. This ultimately led me to combine both aspects of computer science and stocks to see that somewhere in the middle lies cryptocurrency which is a hot topic nowadays. The blockchain technology that goes into making a cryptocurrency intrigues me and I want to learn more about it. 
